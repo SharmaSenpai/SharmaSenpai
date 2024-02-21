@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SharmaSenpai aka Rahul Sharma
-- 👀 I’m interested in Frontend Development, Tech, Startup Community, and Trading in the Crypto/Stocks Market.
-- 🌱 I’m currently learning Frontend Advance with React
-- 💞️ I’m looking to collaborate on this Space as this is new to me
-- 📫 How to reach me, rahulsharma.cse28@gmail.com
+- 👀 I’m interested in most of the techies things occurring in the market.
+- 🌱 I’m currently learning Advanced Frontend Development using React.
+- 💞️ I’m looking to collaborate with the Startup & Developers community.
+- 📫 How to reach me, rahulsharma.cse28@gmail.com or RahulSharma_28 (Twitter or X).
 
 <!---
 SharmaSenpai/SharmaSenpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
