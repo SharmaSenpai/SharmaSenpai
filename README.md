@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharmaSenpai aka Rahul Sharma
 - 👀 I’m interested in most of the techies things occurring in the market.
-- 🌱 I’m currently learning Advanced Frontend Development using React.
+- 🌱 I’m currently learning DSA and a part of 100xDevs.
 - 💞️ I’m looking to collaborate with the Startup & Developers community.
 - 📫 How to reach me, rahulsharma.cse28@gmail.com or @RahulSharma_28 (Twitter or X).
 
