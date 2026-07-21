@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SharmaSenpai aka Rahul Sharma
-- 👀 Building Lumi-labs
+- 👀 Building Founder-Intelligence-Agent
 - 💞️ I’m looking to collaborate with the Startup & Developers community.
 - 📫 How to reach me, rahulsharma.cse28@gmail.com or @RahulSharma_28 (X).
 
