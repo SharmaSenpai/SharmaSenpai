@@ -1,39 +1,42 @@
-# 👋 Hi, I'm Rahul Sharma (@SharmaSenpai)
+# 👋 Hi, I’m Rahul Sharma (@SharmaSenpai)
 
-🚀 Building **Founder Intelligence Agent** — an AI-powered research and intelligence system for founders, builders, marketers, and investors.
+🚀 I’m building **Founder Intelligence Agent** — an AI-powered system that helps founders understand what their market is talking about, identify emerging opportunities, and create relevant content for X.
 
-🧠 Passionate about **AI, Growth Marketing, Automation, Product Building, and Performance Marketing**.
+🧠 I’m a **Growth & Performance Marketer turned AI builder**, with experience across user acquisition, product growth, content, and startup distribution.
 
-🌱 Currently learning everything about building AI products, distribution, and founder-led growth in public.
+## 🔨 Currently Building
 
-🤝 Looking to collaborate with:
+- 🤖 Founder Intelligence Agent
+- 🧠 AI agents with shared memory and specialized skills
+- 📊 Founder, market, and audience intelligence workflows
+- ⚡ Growth and marketing automation systems
 
-* 🛠️ Founders
-* 🚀 Indie Hackers
-* 👨‍💻 Builders
-* 📈 Growth Marketers
-* 🎨 Product Designers
-* 💡 Solopreneurs
-* 🤖 AI Engineers & Open Source Contributors
+## 🌱 Currently Learning
 
-📚 Currently working on:
+- Building production-ready AI agents
+- Agent memory and multi-agent workflows
+- Founder-led growth and product distribution
+- Building useful AI products in public
 
-* 🤖 Founder Intelligence Agent
-* 🧩 AI Agent Workflows
-* 📊 Growth & Marketing Systems
-* ⚡ Automation Tools
+## 🤝 Open to Collaborating With
 
-💬 Ask me about:
+- 🚀 Startup founders and indie hackers
+- 👨‍💻 AI engineers and open-source contributors
+- 📈 Growth and performance marketers
+- 🎨 Product builders and designers
+- 💡 Solopreneurs building AI products
 
-* 📈 Growth Marketing
-* 🎯 Performance Marketing
-* 🤖 AI Agents
-* 🚀 Startup Growth
-* 🧠 Product Strategy
+## 💬 Ask Me About
 
-📫 Reach me:
+- 📈 Growth and performance marketing
+- 🎯 Paid user acquisition and creative testing
+- 🚀 Startup growth and distribution
+- 🧠 Product strategy
+- 🤖 Building AI-powered workflows
 
-* 📧 **Email:** [rahulsharma.cse28@gmail.com](mailto:rahulsharma.cse28@gmail.com)
-* 🐦 **X (Twitter):** @RahulSharma_28
+## 📫 Let’s Connect
 
-⚡ **Mission:** Build products that founders love, share knowledge openly, and create systems that compound over time.
+- 📧 Email: [rahulsharma.cse28@gmail.com](mailto:rahulsharma.cse28@gmail.com)
+- 🐦 X: [@RahulSharma_28](https://x.com/RahulSharma_28)
+
+> ⚡ **Mission:** Build intelligent products, share the journey openly, and create systems that compound over time.
